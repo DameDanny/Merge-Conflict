@@ -1,6 +1,6 @@
 # Merge-Conflict
 LOCAL
-
+Remote
 Voici le petit texte d'Aurore
 Aurore travaille sur GitHub
 C'est éprouvant 
