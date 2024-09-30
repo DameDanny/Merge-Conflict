@@ -1,5 +1,5 @@
 # Merge-Conflict
-
+REMOTE
 
 Voici le petit texte d'Aurore
 Aurore travaille sur GitHub
